@@ -1,0 +1,12 @@
+/* font familys*/
+body {
+    font-family: 'Playpen Sans', cursive, sans-serif;
+    background-color: #F6CD1C;
+    color: #F7F7F7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'josefin sans', cursive, sans-serif;
+    text-align: center;
+    font-size: 40pt;
+}
