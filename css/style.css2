@@ -1,0 +1,6 @@
+/* font familys*/
+body {
+    font-family: 'Playpen Sans', cursive, sans-serif;
+    background-color; #F6CD1C;
+    color: #F7F7F7;
+}
